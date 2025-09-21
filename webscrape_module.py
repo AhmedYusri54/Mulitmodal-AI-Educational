@@ -1,4 +1,4 @@
-from webscraping_process import Website, get_links
+from webscraping_base import Website, get_links
 import openai
 from dotenv import load_dotenv
 import os

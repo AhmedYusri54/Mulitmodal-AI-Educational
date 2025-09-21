@@ -26,6 +26,7 @@
 - [Usage](#-usage)
 - [API Reference](#-api-reference)
 - [License](#-license)
+- [Support](#-support)
 
 ## 🌟 Overview
 

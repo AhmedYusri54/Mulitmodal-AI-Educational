@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1+-purple.svg)

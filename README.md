@@ -44,7 +44,7 @@ In today's information-rich environment, users struggle to:
 
 ### 💡 My Solution
 
-Our platform provides a unified interface that:
+The platform provides a unified interface that:
 - **Processes** diverse content types automatically
 - **Generates** intelligent summaries in multiple languages
 - **Enables** natural language conversations with any processed content

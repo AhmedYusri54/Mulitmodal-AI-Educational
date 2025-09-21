@@ -10,7 +10,7 @@
 
 **An intelligent multi-source content processing platform that transforms YouTube videos, websites, and documents into interactive AI-powered conversations.**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • 
+[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) 
 
 </div>
 

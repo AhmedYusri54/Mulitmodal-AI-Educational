@@ -21,14 +21,11 @@
 - [Overview](#-overview)
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
-- [Architecture](#-architecture)
 - [Installation](#-installation)
 - [Configuration](#-configuration)
 - [Usage](#-usage)
 - [API Reference](#-api-reference)
-- [Contributing](#-contributing)
 - [License](#-license)
-- [Support](#-support)
 
 ## 🌟 Overview
 

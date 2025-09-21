@@ -280,7 +280,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [Ahmed Yusri]**
+**Made with ❤️ by Ahmed Yusri**
 
 ⭐ **Star this repository if you find it helpful!** ⭐
 
